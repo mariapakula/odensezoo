@@ -18,15 +18,19 @@ body {
 
 .headerstykke img {
   width: 18%;
-  margin-top: 2.5%;
+  margin-top: 4%;
   position: absolute;
+}
+
+.logoheader {
+  margin-left: -8%;
 }
 
 .open {
   float: right;
-  margin-right: 18%;
+  margin-right: 6%;
   color: #9d2429;
-  margin-top: 0.5%;
+  margin-top: 2.5%;
   font-size: 40px;
 }
 
@@ -44,40 +48,40 @@ body {
 }
 
 .overlay-content {
-position: relative;
-top: 10%;
-width: 100%;
-text-align: center;
+  position: relative;
+  top: 10%;
+  width: 100%;
+  text-align: center;
 }
 
 .overlay a {
-padding: 8px;
-text-decoration: none;
-font-size: 25px;
-color: #EBE3D8;
-display: block;
-transition: 0.3s;
-font-family: 'PT Sans', sans-serif;
+  padding: 8px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #EBE3D8;
+  display: block;
+  transition: 0.3s;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .overlay a:hover, .overlay a:focus {
-color: #9d2429;
+  color: #9d2429;
 }
 
 .overlay .closebtn {
-position: absolute;
-right: 4%;
-top: -2%;
-font-size: 60px;
+  position: absolute;
+  right: 4%;
+  top: -2%;
+  font-size: 60px;
 }
 
 @media screen and (max-height: 450px) {
 .overlay {overflow-y: auto;}
 .overlay a {font-size: 20px}
 .overlay .closebtn {
-font-size: 40px;
-top: 15px;
-right: 35px;
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
 }
 }
 
@@ -92,7 +96,27 @@ right: 35px;
 
 .footer {
   background-color: #9d2429;
-  height: 130px;
+  height: 180px;
   margin-top: 130%;
   box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.3);
+}
+
+.footertekst {
+  color: #EBE3D8;
+  font-size: 16px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  margin-top: 3.5%;
+  margin-bottom: 5%;
+}
+
+.fblogo {
+  width: 12%;
+  margin-left: 37%;
+  margin-top: 5%;
+}
+
+.instalogo {
+  width: 12%;
+  margin-top: 5%;
 }
