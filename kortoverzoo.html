@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/odensezoo.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap" rel="stylesheet">
+    <title>Odense Zoo</title>
+  </head>
+  <body>
+
+<header>
+
+  <div class="headerstykke"></div>
+
+  <img class="logoheader" src="images/zoosort.png" alt="">
+
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <a href="#">Forside</a>
+        <a href="#">Kort over Odense Zoo</a>
+        <a href="#">Dagens program</a>
+        <a href="#">Nyheder</a>
+        <a href="#">Åbningstider og priser</a>
+        <a href="#">Scan dig til viden om havens dyr</a>
+        <a href="#">Spisning i Odense Zoo</a>
+        <a href="#">Stempeljagt</a>
+        <hr class="hr1">
+        <a href="#">Log ind</a>
+        <a href="#">Mit årskort</a>
+      </div>
+    </div>
+
+    <span class="open" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+    <script>
+    function openNav() {
+      document.getElementById("myNav").style.height = "100%";
+    }
+
+    function closeNav() {
+      document.getElementById("myNav").style.height = "0%";
+    }
+    </script>
+</header>
+
+
+
+  </body>
+</html>
