@@ -1,0 +1,94 @@
+
+/* NAVIGATIONSBAR */
+
+body {
+  margin: 0;
+}
+
+header {
+  position: sticky;
+}
+
+div.headerstykke {
+  width: 100vh;
+  height: 10%;
+  background-color: #EBE3D8;
+  position: fixed;
+  border: none;
+}
+
+.logoheader {
+  width: 18%;
+  position: relative;
+  margin-left: 41%;
+  margin-top: 2.5%;
+  height: auto;
+  position: sticky;
+}
+
+.overlay {
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-y: hidden;
+  transition: 0.5s;
+}
+
+.open {
+  float: right;
+  margin-right: 5%;
+  color: #9d2429;
+  position: relative;
+  margin-top: 0.5%;
+  position: sticky;
+  font-size: 40px;
+}
+
+.overlay-content {
+position: relative;
+top: 10%;
+width: 100%;
+text-align: center;
+}
+
+.overlay a {
+padding: 8px;
+text-decoration: none;
+font-size: 25px;
+color: #EBE3D8;
+display: block;
+transition: 0.3s;
+font-family: 'PT Sans', sans-serif;
+}
+
+.overlay a:hover, .overlay a:focus {
+color: #9d2429;
+}
+
+.overlay .closebtn {
+position: absolute;
+right: 4%;
+top: -2%;
+font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+.overlay {overflow-y: auto;}
+.overlay a {font-size: 20px}
+.overlay .closebtn {
+font-size: 40px;
+top: 15px;
+right: 35px;
+}
+}
+
+.hr1 {
+ text-align: center;
+ width: 70%;
+ color: #EBE3D8;
+}
