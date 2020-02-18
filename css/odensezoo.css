@@ -100,6 +100,7 @@ body {
 
 /*------------------------ KORT OVER ZOO -------------------*/
 
+
 .zookort {
   width: 100%;
   height: 100%;
@@ -119,13 +120,15 @@ body {
 .billede1 img {
   width: 100%;
   margin-top: 10%;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst1 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -135,13 +138,15 @@ body {
 
 .billede2 img {
   width: 100%;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst2 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -152,13 +157,15 @@ body {
 .billede3 img {
   width: 100%;
   margin-top: 0;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst3 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -169,13 +176,15 @@ body {
 .billede4 img {
   width: 100%;
   margin-top: 0;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst4 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -186,13 +195,15 @@ body {
 .billede5 img {
   width: 100%;
   margin-top: 0;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst5 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -203,13 +214,15 @@ body {
 .billede6 img {
   width: 100%;
   margin-top: 0;
-  border: 1px solid #EBE3D8;
+  border-top: 1px solid #EBE3D8;
+  border-bottom: 1px solid #EBE3D8;
 }
 
 .forsidetekst6 {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
+  letter-spacing: 1px;
   font-size: 24px;
   text-align: center;
   position: relative;
@@ -485,12 +498,13 @@ input {
 
 .footer {
   background-color: #9d2429;
-  height: 180px;
+  height: 190px;
   box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.3);
 }
 
 .footer a {
   color: #EBE3D8;
+  text-decoration: none;
 }
 
 .footertekst {
