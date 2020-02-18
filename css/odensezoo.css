@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+.forside {
+  background-color: #2E261B;
+}
+
 .headertekst {
   font-family: 'PT sans', sans-serif;
   color: #9d2429;
@@ -115,13 +119,112 @@ body {
   margin-top: 2%;
 }
 
+.billede1 img {
+  width: 100%;
+  margin-top: 10%;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst1 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -23%;
+  margin-bottom: 17%;
+}
+
+.billede2 img {
+  width: 100%;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst2 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -23%;
+  margin-bottom: 17%;
+}
+
+.billede3 img {
+  width: 100%;
+  margin-top: 0;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst3 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -23%;
+  margin-bottom: 17%;
+}
+
+.billede4 img {
+  width: 100%;
+  margin-top: 0;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst4 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -23%;
+  margin-bottom: 17%;
+}
+
+.billede5 img {
+  width: 100%;
+  margin-top: 0;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst5 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -26%;
+  margin-bottom: 12%;
+}
+
+.billede6 img {
+  width: 100%;
+  margin-top: 0;
+  border: 1px solid #EBE3D8;
+}
+
+.forsidetekst6 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-style: bold;
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin-top: -23%;
+  margin-bottom: 17.5%;
+}
 
 /* FOOTER */
 
 .footer {
   background-color: #9d2429;
   height: 180px;
-  margin-top: 130%;
   box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.3);
 }
 
