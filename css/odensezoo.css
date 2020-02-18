@@ -435,7 +435,7 @@ input {
 
 .januarmartstider {
   width: 90%;
-  height: 50%;
+  height: 71%;
   text-align: center;
   position: absolute;
   z-index: -1;
@@ -461,7 +461,7 @@ input {
   font-size: 15px;
 }
 
-.januar1marts7datoer {
+.januar1februar7 {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   color: black;
@@ -470,7 +470,7 @@ input {
   padding-left: 3%;
 }
 
-.januar1marts7datoer2 {
+.januar1februar7text {
   font-family: 'Open Sans', sans-serif;
   color: black;
   text-align: left;
@@ -478,6 +478,320 @@ input {
   padding-left: 3%;
 }
 
+.februar8februar15 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.februar8februar15text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.februar16februar29 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.februar16februar29text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.marts1marts31 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.marts1marts31text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+/* APRIL JUNI 2020 */
+
+.apriljunitider {
+  width: 90%;
+  height: 123%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 155%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.apriljunitideroverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.apriljunitiderunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.april1april3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.april1april3text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.april4april13 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.april4april13text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.april14maj7 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.april14maj7text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.maj8 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.maj8text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.maj9maj20 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.maj9maj20text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.maj21maj24 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.maj21maj24text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.maj25maj29 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.maj25maj29text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.maj30juni1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.maj30juni1text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.juni2juni30 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.juni2juni30text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+/* JULI OKTOBER 2020 */
+
+.julioktobertider {
+  width: 90%;
+  height: 123%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 377%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.julioktobertideroverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.julioktobertiderunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.juli1august9 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.juli1august9text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.august10oktober9 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.august10oktober9text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
+
+.oktober10oktober17 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.oktober10oktober17text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
 
 
 
