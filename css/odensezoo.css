@@ -12,7 +12,7 @@ body {
   font-family: 'PT sans', sans-serif;
   color: #9d2429;
   font-size: 20px;
-  margin-top: 5.5%;
+  margin-top: 5%;
 }
 
 .headerstykke {
@@ -103,14 +103,10 @@ body {
 
 /* KORT OVER ZOO */
 
-.kortoverzoo {
-  background-color: #2E261B;
-}
-
 .zookort {
   width: 100%;
   height: 100%;
-  margin-top: 8%;
+  margin-top: 6%;
 }
 
 .logohvidkort {
@@ -119,6 +115,7 @@ body {
   margin-top: 2%;
 }
 
+<<<<<<< HEAD
 .billede1 img {
   width: 100%;
   margin-top: 10%;
@@ -219,6 +216,218 @@ body {
   margin-top: -23%;
   margin-bottom: 17.5%;
 }
+=======
+/* DAGENS PROGRAM */
+/* KALENDER */
+
+.kalendertekst {
+  font-family: 'PT sans', sans-serif;
+  color: #9d2429;
+  font-size: 24px;
+  margin-top: -18%;
+  text-align: center;
+}
+
+[type="date"] {
+  background:#fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png)  97% 50% no-repeat ;
+}
+[type="date"]::-webkit-inner-spin-button {
+  display: none;
+  font-family: 'PT Sans', sans-serif;
+}
+[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+}
+
+
+input {
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 3px 5px;
+  box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+  width: 25%;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 35%;
+  margin-left: 37%;
+}
+
+
+.infoboks {
+  width: 75%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 9%;
+  margin-left: 12.5%;
+  border-radius: 5px;
+  background-color: #D0C8BA;
+}
+
+.infotekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+}
+
+.slangeboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 35%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.slangebokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 45%;
+  margin-left: 18%;
+}
+
+.abeboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.abebokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.pingvinboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.pingvinbokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.lemurboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.lemurbokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.bagkulissenboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.bagkulissenbokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.lysshowboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.lysshowbokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.zoolukkerboks1 {
+  width: 90%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 5px;
+}
+
+.zoolukkerbokstekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 13%;
+  margin-left: 18%;
+}
+
+.logohviddagplan {
+  width: 18%;
+  margin-left: 41%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+>>>>>>> b5c647426fbf60e1f2b370211acaf0e26df0f2e4
 
 /* FOOTER */
 
