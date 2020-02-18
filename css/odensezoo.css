@@ -102,7 +102,7 @@ body {
  color: #EBE3D8;
 }
 
-/* KORT OVER ZOO */
+/*------------------------ KORT OVER ZOO -------------------*/
 
 .zookort {
   width: 100%;
@@ -116,7 +116,7 @@ body {
   margin-top: 2%;
 }
 
-/* DAGENS PROGRAM */
+/* --------------------- DAGENS PROGRAM ------------------*/
 /* KALENDER */
 
 .kalendertekst {
@@ -326,6 +326,54 @@ input {
   margin-bottom: 8%;
 }
 
+/* ---------------ÅBNINGSTIDER OG PRISER ---------------*/
+
+/* JANUAR MARTS 2020 */
+
+.januarmartstider {
+  width: 90%;
+  height: 50%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 25%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.januarmartstideroverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.januarmartstiderunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.januar1marts7datoer {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 3%;
+}
+
+.januar1marts7datoer2 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 3%;
+}
 
 /* FOOTER */
 
