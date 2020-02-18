@@ -472,6 +472,8 @@ input {
   color: black;
   text-align: center;
   font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
 }
 
 .januar1februar7 {
@@ -480,7 +482,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .januar1februar7text {
@@ -488,7 +490,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .februar8februar15 {
@@ -497,7 +500,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .februar8februar15text {
@@ -505,7 +508,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .februar16februar29 {
@@ -514,7 +518,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .februar16februar29text {
@@ -522,7 +526,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .marts1marts31 {
@@ -531,7 +536,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .marts1marts31text {
@@ -539,7 +544,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 /* APRIL JUNI 2020 */
@@ -570,6 +576,8 @@ input {
   color: black;
   text-align: center;
   font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
 }
 
 .april1april3 {
@@ -578,7 +586,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .april1april3text {
@@ -586,7 +594,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .april4april13 {
@@ -595,7 +604,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .april4april13text {
@@ -603,7 +612,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .april14maj7 {
@@ -612,7 +622,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .april14maj7text {
@@ -620,7 +630,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .maj8 {
@@ -629,7 +640,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .maj8text {
@@ -637,7 +648,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .maj9maj20 {
@@ -646,7 +658,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .maj9maj20text {
@@ -654,7 +666,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .maj21maj24 {
@@ -663,7 +676,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .maj21maj24text {
@@ -671,7 +684,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .maj25maj29 {
@@ -680,7 +694,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .maj25maj29text {
@@ -688,7 +702,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .maj30juni1 {
@@ -697,7 +712,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .maj30juni1text {
@@ -705,7 +720,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .juni2juni30 {
@@ -714,7 +730,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .juni2juni30text {
@@ -722,14 +738,15 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 /* JULI OKTOBER 2020 */
 
 .julioktobertider {
   width: 90%;
-  height: 123%;
+  height: 74%;
   text-align: center;
   position: absolute;
   z-index: -1;
@@ -753,6 +770,8 @@ input {
   color: black;
   text-align: center;
   font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
 }
 
 .juli1august9 {
@@ -761,7 +780,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .juli1august9text {
@@ -769,7 +788,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .august10oktober9 {
@@ -778,7 +798,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .august10oktober9text {
@@ -786,7 +806,8 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
 
 .oktober10oktober17 {
@@ -795,7 +816,7 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  padding-left: 3%;
+  padding-left: 5%;
 }
 
 .oktober10oktober17text {
@@ -803,8 +824,186 @@ input {
   color: black;
   text-align: left;
   font-size: 14px;
-  padding-left: 3%;
+  padding-left: 5%;
+  margin-top: -4%;
 }
+
+.oktober18 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.oktober18text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.oktober19oktober31 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.oktober19oktober31text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+/* NOVEMBER DECEMBER 2020 */
+
+.novemberdecembertider {
+  width: 90%;
+  height: 87%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 512%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.novemberdecembertideroverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.novemberdecembertiderunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
+}
+
+.november1november12 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.november1november12text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.november13 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.november13text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.november14november23 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.november14november23text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.december24 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.december24text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.december25december30 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.december25december30text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.december31 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.december31text {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
 
 
 
