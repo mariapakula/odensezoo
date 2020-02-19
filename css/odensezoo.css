@@ -238,7 +238,7 @@ header img {
 
 .kalendertekst {
   font-family: 'PT sans', sans-serif;
-  color: #9d2429;
+  color: #EBE3D8;
   font-size: 24px;
   margin-top: -18%;
   text-align: center;
@@ -445,6 +445,7 @@ input {
 
 
 /* ---------------ÅBNINGSTIDER OG PRISER ---------------*/
+
 
 /* JANUAR MARTS 2020 */
 
@@ -1054,6 +1055,341 @@ float: left;
   height: 1px;
   opacity: 0;
 }
+
+/* ---- PRISER ---- */
+
+.almpris {
+  width: 90%;
+  height: 47%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 670%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.almprisoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.voksenpris {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.voksenpristext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+
+.barnpris {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.barnpristext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.studerendepris {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.studerendepristext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.infopris {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.infopristext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  margin-top: -4%;
+}
+
+/* ---- ZOO VEN PRISER ---- */
+
+.zooven {
+  width: 90%;
+  height: 55%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 757%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.zoovenoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.zoovenunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
+}
+
+.zoovenvoksen {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.zoovenvoksentext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.zoovenbarn {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.zoovenbarntext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.zoovensenior {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.zoovenseniortext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.zoovenårskortinfotext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+
+/* ---- ZOO GRUPPE PRISER ---- */
+
+.priserforgrupper {
+  width: 90%;
+  height: 40%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 857%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.priserforgrupperoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.priserforgrupperunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
+}
+
+.gruppeprisvoksen {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.gruppeprisvoksentext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.gruppeprisbarn {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.gruppeprisbarntext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -4%;
+}
+
+.gruppeprisinfotext {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+
+/* ---- ÆLDRESAGEN ---- */
+
+.aldresagen {
+  width: 90%;
+  height: 40%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 930%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.aldresagenoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 18px;
+}
+
+.aldresagenunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -4%;
+  margin-bottom: 10%;
+}
+
+.betingelserforaldresagen {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 5%;
+}
+
+.betingelserforaldresagentext1 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: 4%;
+}
+
+.betingelserforaldresagentext2 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: 4%;
+}
+
+
+
+.logohvidtiderogpriser {
+  width: 18%;
+  margin-left: 41%;
+  margin-top: 1010%;
+  margin-bottom: 8%;
+}
+
+/*-------------------------- SPISNING -------------------------*/
+
 
 
 
