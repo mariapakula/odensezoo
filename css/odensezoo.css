@@ -238,7 +238,7 @@ header img {
 
 .kalendertekst {
   font-family: 'PT sans', sans-serif;
-  color: #9d2429;
+  color: #EBE3D8;
   font-size: 24px;
   margin-top: -18%;
   text-align: center;
@@ -1338,6 +1338,13 @@ input {
   margin-top: 1010%;
   margin-bottom: 8%;
 }
+
+/*-------------------------- SPISNING -------------------------*/
+
+
+
+
+
 
 /* FOOTER */
 
