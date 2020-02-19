@@ -10,7 +10,7 @@ header {
   height: 11%;
   background-color: #EBE3D8;
   text-align: center;
-  position: absolute;
+  position: fixed;
   z-index: 10;
   display: inline-block;
   box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.3);
@@ -38,7 +38,7 @@ header img {
   margin-right: 6%;
   color: #9d2429;
   margin-top: 2.5%;
-  font-size: 40px;
+  position: relative;
 }
 
 .overlay {
@@ -116,12 +116,12 @@ header img {
 }
 
 
-/* --------------------- DAGENS PROGRAM ------------------*/
+/* --------------------- FORSIDE ------------------*/
 
 
 .billede1 img {
   width: 100%;
-  margin-top: 10%;
+  margin-top: 22.5%;
   border-top: 1px solid #EBE3D8;
   border-bottom: 1px solid #EBE3D8;
 }
@@ -1006,10 +1006,58 @@ input {
   margin-top: -4%;
 }
 
+/* ----------------- QR-SCANNER ----------------- */
+
+.skilt {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 40%;
+  border: 2px solid #EBE3D8;
+  border-radius: 5px;
+}
+
+input {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10%;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  background-color: #ebe3d8;
+  padding: 3px 5px;
+  box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+  font-family: 'PT sans', sans-serif;
+  color: #9d2429;
+  margin-left: 37.5%;
+}
+
+
+label {
+float: left;
+}
+
+.qrcode-text {
+  margin-right: 0;
+}
+
+.qrcode-text-btn {
+  display:inline-block;
+  background:url(//dab1nmslvvntp.cloudfront.net/wp-content/uploads/2017/07/1499401426qr_icon.svg) 50% 50% no-repeat;
+  height: 2%;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.qrcode-text-btn > input[type=file] {
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
 
 
 
-/* FOOTER */
+/* ------ FOOTER ------ */
 
 .footer {
   background-color: #9d2429;
