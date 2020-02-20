@@ -16,12 +16,6 @@ header {
   box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.3);
 }
 
-.headertekst {
-  font-family: 'PT sans', sans-serif;
-  color: #9d2429;
-  font-size: 20px;
-  margin-top: 5%;
-}
 
 header img {
   width: 18%;
