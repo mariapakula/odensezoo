@@ -31,6 +31,34 @@
     <span class="open" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 </header>
 
+<img class="lovebaggrund" src="images/løve.jpg" alt="">
+
+<span class="logindkasse">
+</span>
+
+<form action="action_page.php">
+
+<div class="containerprofil">
+  <label for="uname"><b>Årskort ID (stregkode)</b></label>
+  <input type="text" placeholder="Årskort ID" name="uname" required>
+
+  <label for="psw"><b>Efternavn</b></label>
+  <input type="password" placeholder="Efternavn" name="psw" required>
+  </div>
+
+
+  <button type="button" class="logindknap"><a href="#" style="text-decoration: none;">LOG IND</a></button>
+
+
+  <div class="forblivloggetind">
+    <input type="checkbox" checked="checked" name="remember"> Forbliv logget ind
+  </div>
+
+  </div>
+  </form>
+
+
+
 <script>
 function openNav() {
   document.getElementById("myNav").style.height = "100%";
