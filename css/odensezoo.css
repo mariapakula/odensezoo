@@ -1710,6 +1710,331 @@ input {
 }
 
 
+/* -------------------- INFO OM DYR ---------------- */
+
+.chimpansebillede {
+  width: 100%;
+  height: 20%;
+  margin-top: 19%;
+}
+
+.stempelinfochimpanse {
+  width: 90%;
+  height: 13%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 65%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelinfochimpansebillede {
+  width: 15%;
+  height: 45%;
+  border-radius: 5px;
+  margin-top: 4%;
+}
+
+.stempelinfochimpanseoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #9d2429;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -0.1%;
+}
+
+.chimpanseinfo {
+  width: 90%;
+  height: 68%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 95%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #ffff;
+}
+
+.chimpanseinfooverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  font-size: 18px;
+  margin-left: 4%;
+}
+
+.chimpanseinfounderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+/* ------ CHIMPANSE MAD ------ */
+
+.chimpansemad {
+  width: 90%;
+  height: 30%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 220%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpansemadbillede {
+  width: 15%;
+  height: 25%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpansemadoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpansemadunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+
+/* ------ CHIMPANSE LEVESTED ------ */
+
+.chimpanselevested {
+  width: 90%;
+  height: 23%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 275%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpanselevestedbillede {
+  width: 14%;
+  height: 28%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpanselevestedoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpanselevestedunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+/* ------ CHIMPANSE LEVETID ------ */
+
+.chimpanselevetid {
+  width: 90%;
+  height: 25%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 317.5%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpanselevetidbillede {
+  width: 12%;
+  height: 26%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpanselevetidoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpanselevetidunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+/* ------ CHIMPANSE vægt ------ */
+
+.chimpansevaagt {
+  width: 90%;
+  height: 25%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 363.5%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpansevaagtbillede {
+  width: 15%;
+  height: 28%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpansevaagtoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpansevaagtunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+
+/* ------ CHIMPANSE DRÆGTIGHED ------ */
+
+.chimpansegravid {
+  width: 90%;
+  height: 23%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 410%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpansegravidbillede {
+  width: 20%;
+  height: 27%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpansegravidoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpansegravidunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+/* ------ CHIMPANSE STATUS ------ */
+
+.chimpansestatus {
+  width: 90%;
+  height: 23%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 453%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.chimpansestatusbillede {
+  width: 15%;
+  height: 25%;
+  border-radius: 5px;
+  margin-top: 6%;
+}
+
+.chimpansestatusoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+.chimpansestatusunderoverskrift {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: -2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.logohvidchimpanse {
+  width: 18%;
+  margin-left: 41%;
+  margin-top: 150%;
+  margin-bottom: 8%;
+}
+
 /* ------ FOOTER ------ */
 
 .footer {
