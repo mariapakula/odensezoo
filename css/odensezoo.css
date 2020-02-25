@@ -2354,7 +2354,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   border-radius: 5px;
   background-color: white;
   opacity: 50%;
-  filter: drop-shadow(3px 3px 3px #000);
+  filter: drop-shadow(6px 6px 6px #000);
 }
 
 .mitkortoverskrift {
@@ -2651,6 +2651,12 @@ z-index: 4;
 margin-top: 5%;
 }
 
+.nyhederlogo {
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 270%;
+  margin-bottom: 8%;
+}
 
 
 /* ------ FOOTER ------ */
