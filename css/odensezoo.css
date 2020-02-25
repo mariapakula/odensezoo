@@ -2039,16 +2039,210 @@ input {
 
 
 .stempeljagtboks1 {
-  width: 90%;
-  height: 23%;
+  width: 20%;
+  height: 11%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 453%;
-  margin-left: -95%;
+  margin-top: 30%;
+  margin-left: 10%;
   border-radius: 5px;
   background-color: #EBE3D8;
+}
+
+.stempelbillede1 {
+  width: 70%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks2 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 30%;
+  margin-left: 40%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede2 {
+  width: 85%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks3 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 30%;
+  margin-left: 70%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede3 {
+  width: 60%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks4 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 55%;
+  margin-left: 10%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede4 {
+  width: 80%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks5 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 55%;
+  margin-left: 40%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede5 {
+  width: 85%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks6 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 55%;
+  margin-left: 70%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede6 {
+  width: 70%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks7 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 80%;
+  margin-left: 10%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede7 {
+  width: 70%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks8 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 80%;
+  margin-left: 40%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede8 {
+  width: 75%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.stempeljagtboks9 {
+  width: 20%;
+  height: 11%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 80%;
+  margin-left: 70%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.stempelbillede9 {
+  width: 80%;
+  height: 80%;
+  border-radius: 5px;
+  padding-top: 10%;
+}
+
+.gevinst {
+  width: 80%;
+  height: 30%;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 102%;
+  margin-left: 10%;
+  border-radius: 5px;
+}
+
+.gevinsttekst {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.logohvidstempeljagt {
+  width: 18%;
+  margin-left: 41%;
+  margin-top: 160%;
+  margin-bottom: 8%;
 }
 
 /* ------ FOOTER ------ */
