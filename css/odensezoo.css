@@ -2484,6 +2484,28 @@ z-index: 4;
 margin-top: 4%;
 }
 
+.tilbagetiloversigt {
+  width: 40%;
+  height: 5%;
+  position: absolute;
+  z-index: -2;
+  margin-top: 155%;
+  margin-left: -70%;
+  border-radius: 5px;
+  background-color: #9D2429;
+  z-index: 4;
+}
+
+.tilbagetiloversigt1 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: white;
+text-align: center;
+font-size: 14px;
+z-index: 4;
+margin-top: 4%;
+}
+
 
 /* ------------------------ NYHEDER ------------------------- */
 
@@ -2709,6 +2731,174 @@ margin-top: 5%;
   margin-left: 40%;
   margin-top: 270%;
   margin-bottom: 8%;
+}
+
+/* ------------------- OVERSIGT OVER ÅRSKORT --------------- */
+
+.aarskortbaggrund {
+  width: 100%;
+  max-height: 100%;
+  height: 100vh;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  opacity: 60%;
+}
+
+.aarskortkasse1 {
+  width: 80%;
+  height: 20%;
+  position: absolute;
+  z-index: 2;
+  margin-top: 30%;
+  margin-left: -90%;
+  border-radius: 5px;
+  background-color: white;
+  opacity: 60%;
+  filter: drop-shadow(6px 6px 6px #000);
+}
+
+.aarskortoverskrift1 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: black;
+text-align: center;
+font-size: 16px;
+z-index: 4;
+margin-top: 5%;
+}
+
+.aarskortstregkode1 {
+  width: 40%;
+  margin-left: 58%;
+  margin-top: 2%;
+  z-index: 4;
+}
+
+.aarskortnavn1 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -15%;
+  z-index: 4;
+}
+
+.aarskortkasse2 {
+  width: 80%;
+  height: 20%;
+  position: absolute;
+  z-index: 2;
+  margin-top: 70%;
+  margin-left: -90%;
+  border-radius: 5px;
+  background-color: white;
+  opacity: 60%;
+  filter: drop-shadow(6px 6px 6px #000);
+}
+
+.aarskortoverskrift2 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: black;
+text-align: center;
+font-size: 16px;
+z-index: 4;
+margin-top: 5%;
+}
+
+.aarskortstregkode2 {
+  width: 40%;
+  margin-left: 58%;
+  margin-top: 2%;
+  z-index: 4;
+}
+
+.aarskortnavn2 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -15%;
+  z-index: 4;
+}
+
+.aarskortkasse3 {
+  width: 80%;
+  height: 20%;
+  position: absolute;
+  z-index: 2;
+  margin-top: 110%;
+  margin-left: -90%;
+  border-radius: 5px;
+  background-color: white;
+  opacity: 60%;
+  filter: drop-shadow(6px 6px 6px #000);
+}
+
+.aarskortoverskrift3 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: black;
+text-align: center;
+font-size: 16px;
+z-index: 4;
+margin-top: 5%;
+}
+
+.aarskortstregkode3 {
+  width: 40%;
+  margin-left: 58%;
+  margin-top: 2%;
+  z-index: 4;
+}
+
+.aarskortnavn3 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -15%;
+  z-index: 4;
+}
+
+.aarskortkasse4 {
+  width: 80%;
+  height: 20%;
+  position: absolute;
+  z-index: 2;
+  margin-top: 150%;
+  margin-left: -90%;
+  border-radius: 5px;
+  background-color: white;
+  opacity: 60%;
+  filter: drop-shadow(6px 6px 6px #000);
+}
+
+.aarskortoverskrift4 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+color: black;
+text-align: center;
+font-size: 16px;
+z-index: 4;
+margin-top: 5%;
+}
+
+.aarskortstregkode4 {
+  width: 40%;
+  margin-left: 58%;
+  margin-top: 2%;
+  z-index: 4;
+}
+
+.aarskortnavn4 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  padding-left: 5%;
+  margin-top: -15%;
+  z-index: 4;
 }
 
 
