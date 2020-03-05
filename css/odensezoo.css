@@ -185,13 +185,14 @@ header img {
   font-size: 24px;
   text-align: center;
   position: relative;
-  margin-top: -23%;
-  margin-bottom: 17%;
+  margin-top: -27%;
+  margin-bottom: 10.5%;
+  padding-top: 10px;
 }
 
 .billede5 img {
   width: 100%;
-  margin-top: 0;
+  margin-top: 8%;
   border-top: 1px solid #EBE3D8;
   border-bottom: 1px solid #EBE3D8;
 }
@@ -204,8 +205,8 @@ header img {
   font-size: 24px;
   text-align: center;
   position: relative;
-  margin-top: -26%;
-  margin-bottom: 12%;
+  margin-top: -28%;
+  margin-bottom: 0%;
 }
 
 .billede6 img {
@@ -219,7 +220,7 @@ header img {
   color: #ffffff;
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   font-size: 24px;
   text-align: center;
   position: relative;
