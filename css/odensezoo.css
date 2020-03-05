@@ -2171,11 +2171,16 @@ input {
   background-color: #EBE3D8;
 }
 
-.stempelbillede7 {
-  width: 70%;
-  height: 80%;
-  border-radius: 5px;
-  padding-top: 10%;
+.popuphint1 {
+  color: #922e2e;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  top: 20px;
 }
 
 .stempeljagtboks8 {
@@ -2191,11 +2196,16 @@ input {
   background-color: #EBE3D8;
 }
 
-.stempelbillede8 {
-  width: 75%;
-  height: 80%;
-  border-radius: 5px;
-  padding-top: 10%;
+.popuphint2 {
+  color: #922e2e;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  top: 20px;
 }
 
 .stempeljagtboks9 {
@@ -2211,11 +2221,17 @@ input {
   background-color: #EBE3D8;
 }
 
-.stempelbillede9 {
-  width: 80%;
-  height: 80%;
-  border-radius: 5px;
-  padding-top: 10%;
+.popuphint3 {
+  color: #922e2e;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: -50%;
+  position: relative;
+  top: 20px;
 }
 
 .gevinst {
@@ -2239,6 +2255,43 @@ input {
 }
 
 
+.popupinfo1 {
+  width: 90%;
+  height: 51%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 29%;
+  margin-left: 5%;
+  border-radius: 5px;
+  background-color: black;
+  opacity: 88%;
+}
+
+.popupinfotekst1 {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 15%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.luk1 {
+  width: 5%;
+  height: 3%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 32%;
+  margin-left: 85%;
+  border-radius: 5px;
+}
 
 
 /* ----------------- LOG IND ------------------------- */
@@ -2319,9 +2372,8 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
 .forblivloggetind {
   font-family: 'PT Sans', sans-serif;
   font-size: 12px;
-  margin-top: -60%;
-  margin-left: -90%;
-  text-align: center;
+  margin-top: -40%;
+  margin-left: -40%;
 }
 
 .logohvidlogind {
