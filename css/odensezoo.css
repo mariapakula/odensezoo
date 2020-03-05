@@ -2179,6 +2179,8 @@ input {
   font-size: 24px;
   text-align: center;
   text-decoration: none;
+  position: relative;
+  top: 20px;
 }
 
 .stempeljagtboks8 {
@@ -2202,6 +2204,8 @@ input {
   font-size: 24px;
   text-align: center;
   text-decoration: none;
+  position: relative;
+  top: 20px;
 }
 
 .stempeljagtboks9 {
@@ -2226,6 +2230,8 @@ input {
   text-align: center;
   text-decoration: none;
   padding-bottom: -50%;
+  position: relative;
+  top: 20px;
 }
 
 .gevinst {
