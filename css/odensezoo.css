@@ -287,12 +287,12 @@ input {
 
 .slangeboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 35%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -306,14 +306,27 @@ input {
   margin-left: 18%;
 }
 
+.vehicle1 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
+}
+
+
 .abeboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -323,18 +336,31 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
 }
 
+.vehicle2 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
+}
+
+
 .pingvinboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -344,18 +370,31 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
 }
 
+.vehicle3 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
+}
+
+
 .lemurboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -365,18 +404,30 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
+}
+
+.vehicle4 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
 }
 
 .bagkulissenboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -386,18 +437,30 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
+}
+
+.vehicle5 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst5 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
 }
 
 .lysshowboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -407,18 +470,30 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
+}
+
+.vehicle6 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst6 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
 }
 
 .zoolukkerboks1 {
   width: 90%;
-  height: 11%;
+  height: 14%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 5%;
+  margin-top: -2%;
   margin-left: 5%;
   border-radius: 5px;
 }
@@ -428,8 +503,20 @@ input {
   color: #9d2429;
   text-align: center;
   font-size: 15px;
-  margin-top: 13%;
+  margin-top: 8%;
   margin-left: 18%;
+}
+
+.vehicle7 {
+  width: 5%;
+  margin-top: -20%;
+  margin-left: 43%;
+}
+
+.vehicletekst7 {
+  font-family: 'Open Sans', sans-serif;
+  color: #9d2429;
+  font-size: 14px;
 }
 
 .logohviddagplan {
