@@ -2453,11 +2453,16 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   color: #ffffff;
 }
 
-.forblivloggetind {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 12px;
-  margin-top: -40%;
-  margin-left: -40%;
+.vehicle10 {
+  width: 5%;
+  margin-top: 8%;
+  margin-left: 31%;
+}
+
+.vehicletekst10 {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
 }
 
 .logohvidlogind {
