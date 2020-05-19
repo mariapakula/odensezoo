@@ -1471,7 +1471,7 @@ input {
 
 .madinfo {
   width: 90%;
-  height: 40%;
+  height: 39%;
   text-align: center;
   position: absolute;
   z-index: -1;
@@ -1496,14 +1496,15 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 /* CHUNGA */
 
 .chunga {
   width: 90%;
-  height: 75%;
+  height: 81%;
   text-align: center;
   position: absolute;
   z-index: -1;
@@ -1528,8 +1529,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .chungatider {
@@ -1538,8 +1539,8 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .chungabillede {
@@ -1552,12 +1553,12 @@ input {
 
 .safari {
   width: 90%;
-  height: 68%;
+  height: 69%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 240%;
+  margin-top: 250%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: #ffffff;
@@ -1577,8 +1578,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .safaritider {
@@ -1587,8 +1588,8 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .safaribillede {
@@ -1601,12 +1602,12 @@ input {
 
 .bondegaarden {
   width: 90%;
-  height: 65%;
+  height: 61%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 365%;
+  margin-top: 379%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: #ffffff;
@@ -1626,8 +1627,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .bondegaardentider {
@@ -1636,8 +1637,8 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .bondegaardenbillede {
@@ -1650,12 +1651,12 @@ input {
 
 .tigeris {
   width: 90%;
-  height: 65%;
+  height: 57%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 485%;
+  margin-top: 494%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: #ffffff;
@@ -1675,8 +1676,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .tigeristider {
@@ -1685,8 +1686,8 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .tigerisbillede {
@@ -1700,12 +1701,12 @@ input {
 
 .dyrehaven {
   width: 90%;
-  height: 60%;
+  height: 57%;
   text-align: center;
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 605%;
+  margin-top: 602%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: #ffffff;
@@ -1725,8 +1726,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .dyrehaventider {
@@ -1735,8 +1736,8 @@ input {
   color: black;
   text-align: left;
   font-size: 15px;
-  margin-left: 2.5%;
-  margin-right: 2.5%
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .dyrehavenbillede {
@@ -1755,7 +1756,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 715%;
+  margin-top: 710%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: #ffffff;
@@ -1775,8 +1776,8 @@ input {
   text-align: left;
   font-size: 15px;
   margin-top: 4%;
-  margin-left: 2.5%;
-  margin-right: 2.5%;
+  padding-left: 5%;
+  padding-right: 4%;
 }
 
 .medbragtmadbillede {
@@ -1788,7 +1789,7 @@ input {
 .logohvidspisning {
   width: 18%;
   margin-left: 41%;
-  margin-top: 850%;
+  margin-top: 845%;
   margin-bottom: 8%;
 }
 
