@@ -2457,6 +2457,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   width: 5%;
   margin-top: 8%;
   margin-left: 31%;
+  position: relative;
 }
 
 .vehicletekst10 {
