@@ -1420,12 +1420,11 @@ input {
 /* ----------------- QR-SCANNER ----------------- */
 
 
-
 .qrscannerlogo {
   width: 50%;
   position: absolute;
   z-index: 2;
-  margin-top: 50%;
+  margin-top: 70%;
   margin-left: 25%;
   filter: drop-shadow(7px 7px 7px #222);
 }
@@ -1442,7 +1441,7 @@ input {
   font-size: 18px;
   position: absolute;
   z-index: 4;
-  margin-top: 110%;
+  margin-top: 130%;
   filter: drop-shadow(4px 4px 10px #222);
 }
 
