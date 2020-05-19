@@ -2464,6 +2464,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
+  position: relative;
 }
 
 .logohvidlogind {
