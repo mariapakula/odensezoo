@@ -2505,6 +2505,8 @@ color: black;
 text-align: center;
 font-size: 16px;
 z-index: 4;
+position: relative;
+margin-top: -140%;
 }
 
 .mitkortstregkode {
@@ -2512,40 +2514,46 @@ z-index: 4;
   margin-left: 30%;
   margin-top: -3%;
   z-index: 4;
+  position: relative;
+
 }
 
 .idoverskrift {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
-  padding-left: 8%;
-  padding-top: 5%;
+  padding-left: 15%;
+  padding-top: 1%;
   z-index: 4;
+  position: relative;
 }
 
 .idoverskrift2 {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
-  padding-left: 8%;
+  padding-left: 15%;
   z-index: 4;
+  position: relative;
 }
 
 .idoverskrift3 {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
-  padding-left: 8%;
+  padding-left: 15%;
   z-index: 4;
+  position: relative;
 }
 
 .idoverskrift4 {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
-  padding-left: 8%;
+  padding-left: 15%;
   font-weight: bold;
   z-index: 4;
+  position: relative;
 }
 
 
@@ -2555,8 +2563,8 @@ z-index: 4;
   height: 5%;
   position: absolute;
   z-index: -2;
-  margin-top: 120%;
-  margin-left: -70%;
+  margin-top: 2%;
+  margin-left: 30%;
   border-radius: 5px;
   background-color: #9D2429;
   z-index: 4;
@@ -2577,8 +2585,8 @@ margin-top: 4%;
   height: 5%;
   position: absolute;
   z-index: -2;
-  margin-top: 155%;
-  margin-left: -70%;
+  margin-top: 30%;
+  margin-left: 30%;
   border-radius: 5px;
   background-color: #9D2429;
   z-index: 4;
