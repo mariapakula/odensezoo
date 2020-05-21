@@ -43,6 +43,33 @@
   <p class="stempelinfochimpanseoverskrift">Tillykke du har fundet et nyt stempel!</p>
 </span>
 
+
+<span class="knapbox">
+<img class="lyticon" src="images/lyticon.png" alt="">
+  <audio id="myAudio">
+    <source src="lyd/test.mp3" type="audio/mpeg">
+    <source src="horse.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <button class="playknap" onclick="playAudio()" type="button">Play</button>
+  <button class="pauseknap" onclick="pauseAudio()" type="button">Pause</button>
+
+  <script>
+  var x = document.getElementById("myAudio");
+
+  function playAudio() {
+    x.play();
+  }
+
+  function pauseAudio() {
+    x.pause();
+  }
+  </script>
+
+</span>
+
+
 <span class="chimpanseinfo">
   <p class="chimpanseinfooverskrift">Chimpanse (Pan troglodytes)</p>
   <p class="chimpanseinfounderoverskrift">Chimpansen er det dyr, som ligner mennesket mest. De lever i flok og bor mellem 15 og 120 på ét territorium, som de forsvarer over for andre flokke.

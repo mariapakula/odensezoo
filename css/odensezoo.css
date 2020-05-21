@@ -1802,7 +1802,7 @@ input {
 
 .stempelinfochimpansebillede {
   width: 15%;
-  height: 45%;
+  height: 47%;
   border-radius: 5px;
   margin-top: 4%;
 }
@@ -1816,6 +1816,70 @@ input {
   margin-top: -0.1%;
 }
 
+/* ----------- OPLÆSNING ---------- */
+
+.knapbox {
+  width: 90%;
+  height: 18%;
+  text-align: center;
+  position: absolute;
+  z-index: -1;
+  display: inline-block;
+  margin-top: 93%;
+  margin-left: -95%;
+  border-radius: 5px;
+  background-color: #EBE3D8;
+}
+
+.lyticon {
+  width: 15%;
+  height: 47%;
+  border-radius: 5px;
+margin-left: 36.5%;
+margin-top: -5%;
+  display: relative;
+
+}
+
+.playknap {
+    background-color: #9D2429;
+    color: #ffffff;
+    padding: 8px 20px;
+    margin: 4px 0;
+    width: 30%;
+    cursor: pointer;
+    border-radius: 4px;
+    font-family: 'PT Sans', sans-serif;
+    border: 1px solid #9D2429;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: -10px;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 99%;
+    margin-top: 20%;
+    margin-right: 2%;
+  }
+
+.pauseknap {
+  background-color: #9D2429;
+  color: #ffffff;
+  padding: 8px 20px;
+  margin: 4px 0;
+  width: 30%;
+  cursor: pointer;
+  border-radius: 4px;
+  font-family: 'PT Sans', sans-serif;
+  border: 1px solid #9D2429;
+  margin-left: %;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: -10px;
+  text-decoration: none;
+  font-size: 14px;
+  opacity: 99%;
+}
+
 .chimpanseinfo {
   width: 90%;
   height: 68%;
@@ -1823,7 +1887,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 95%;
+  margin-top: 130%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #ffff;
@@ -1858,7 +1922,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 220%;
+  margin-top: 255%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
@@ -1900,7 +1964,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 275%;
+  margin-top: 310%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
@@ -1941,7 +2005,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 317.5%;
+  margin-top: 352.5%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
@@ -1982,7 +2046,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 363.5%;
+  margin-top: 398.5%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
@@ -2024,7 +2088,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 410%;
+  margin-top: 445%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
@@ -2065,7 +2129,7 @@ input {
   position: absolute;
   z-index: -1;
   display: inline-block;
-  margin-top: 453%;
+  margin-top: 488%;
   margin-left: -95%;
   border-radius: 5px;
   background-color: #EBE3D8;
