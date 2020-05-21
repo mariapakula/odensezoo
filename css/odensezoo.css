@@ -2565,7 +2565,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   position: absolute;
   z-index: 4;
   display: inline-block;
-  margin-top: -135%;
+  margin-top: -140%;
   margin-left: 5%;
   border-radius: 5px;
   background-color: black;
@@ -2601,7 +2601,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   position: absolute;
   z-index: 4;
   display: inline-block;
-  margin-top: -130%;
+  margin-top: -135%;
   margin-left: 85%;
   border-radius: 5px;
 }
