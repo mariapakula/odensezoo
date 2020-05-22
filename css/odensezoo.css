@@ -2600,8 +2600,8 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
 
 .gdpr {
   width: 5%;
-  margin-top: 8%;
-  margin-left: 15%;
+  margin-top: 11%;
+  margin-left: 6%;
   position: relative;
 }
 
@@ -2611,8 +2611,8 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   font-size: 11px;
   position: relative;
   text-align: left;
-  padding-left: 22%;
-  margin-top: -5%;
+  padding-left: 15%;
+  margin-top: -7%;
 }
 
 .gdprtekst a {
@@ -2713,7 +2713,7 @@ input[type=text], input[type=password], input[type=E-mailadresse] {
   position: absolute;
   z-index: 2;
   margin-top: 30%;
-  margin-left: -90%;
+  margin-left: 10%;
   border-radius: 5px;
   background-color: white;
   opacity: 50%;
@@ -2728,7 +2728,7 @@ text-align: center;
 font-size: 16px;
 z-index: 4;
 position: relative;
-margin-top: -140%;
+margin-top: 30%;
 }
 
 .mitkortstregkode {

@@ -126,13 +126,11 @@ Telefon: [  xx xx xx xx  ]
 Email: [  xxxxx@xxxxxx.dk  ]</section>
   </div>
 
-
-
-  Jeg laver stort set ikke andet end at sove hele dagen lang</p>
+</p>
 </span>
 
 <span>
-<a href="opretbruger.html">
+<a href="opretbruger.php">
 <img class="lukbetingelser" src="images/kryds.png">
 </a>
 </span>

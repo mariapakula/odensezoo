@@ -7,16 +7,10 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Sans&display=swap" rel="stylesheet">
     <link rel="icon" href="images/favicon.png">
     <title>Odense ZOO</title>
-    <style>
-    body {
-      background-image: url('images/lemur.jpg');
-    }
-  </style>
   </head>
   <body>
 
 <header>
-
   <a href="http://mariapakula.dk/odensezoo/forside.html">
   <img class="logoheader" src="images/zoosort.png" alt="">
   </a>
@@ -36,44 +30,43 @@
         <a href="aarskortoversigt.html">Mit årskort</a>
       </div>
     </div>
-
     <span class="open" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
-
 </header>
 
+<img class="lovebaggrund" src="images/løve.jpg" alt="">
 
-<span class="mitkortkasse"></span>
-<span>
-  <p class="mitkortoverskrift">ZOOven Årskort</p>
-  </span>
-  <span>
-  <img class="mitkortstregkode" src="images/stregkode.png" alt="">
-  </span>
-  <span>
-  <p class="idoverskrift">ID:<br>1234567890128</p>
-  </span>
-  <span>
-  <p class="idoverskrift2">For periode:<br>12 - 03 - 19 til 11 - 03 - 20</p>
-  </span>
-  <span>
-  <p class="idoverskrift3">Kortholder:<br>Anders Andersen</p>
-  </span>
-  <span>
-  <p class="idoverskrift4">DKK 450</p>
-</span>
+<!-- container med logind formular -->
+<span class="logindkasse">
 </span>
 
+<form method="post" action="aarskortoversigt.html">
 
-<span class="fornykort">
-  <p class="fornykortoverskrift">Forny årskort</p>
+<div class="containerprofil">
+  <label for="id"><b>Årskort ID (stregkode)</b></label>
+  <input type="text" placeholder="Årskort ID" name="id" required>
+
+  <label for="adgangskode"><b>Adgangskode</b></label>
+  <input type="password" placeholder="Adgangskode" name="adgangskode" required>
+  </div>
+
+<!-- log ind knap -->
+  <form method="post" action="">
+      <a href="aarskortoversigt.html" style="text-decoration: none;">
+      <input type="submit" name="submitknap" value="Log ind" class="logindknap">
+    </a>
+  </form>
+
+  <p class="ingenbruger">Har du ikke allered et login? Opret bruger <a href="opretbruger.php" style="text-decoration: none;">her</a>.</p>
+
+  <span>
+  <form action="">
+  <input type="checkbox" class="vehicle10" name="vehicle10" value="loggetind">
+<label class="vehicletekst10" for="vehicle10">Forbliv logget ind</label><br>
+  </form>
 </span>
 
-<a href="aarskortoversigt.html">
-<span class="tilbagetiloversigt">
-  <p class="tilbagetiloversigt1">Tilbage til oversigt</p>
-</span>
-</a>
-
+  </div>
+  </form>
 
 
 <script>

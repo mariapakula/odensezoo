@@ -35,34 +35,48 @@
 
 <img class="lovebaggrund" src="images/løve.jpg" alt="">
 
-<span class="logindkasse">
+
+<!-- container med opret bruger formular -->
+
+<span class="opretbrugerkasse">
 </span>
 
-<form method="post" action="action_page.php">
+<form method="post" action="databaseconnection.php">
 
 <div class="containerprofil">
-  <label for="uname"><b>Årskort ID (stregkode)</b></label>
-  <input type="text" placeholder="Årskort ID" name="uname" required>
+  <label for="email"><b>Årskort ID (stregkode)</b></label>
+  <input type="text" placeholder="Årskort ID" name="email" required>
 
-  <label for="psw"><b>Adgangskode</b></label>
-  <input type="password" placeholder="Adgangskode" name="psw" required>
-  </div>
+  <label for="firstname"><b>Fornavn</b></label>
+  <input type="text" placeholder="Fornavn" name="firstname" required>
 
+	<label for="lastname"><b>Efternavn</b></label>
+	<input type="text" placeholder="Efternavn" name="lastname" required>
 
-  <button type="button" class="logindknap"><a href="aarskortoversigt.html" style="text-decoration: none;">LOG IND</a></button>
+	<label for="password"><b>Adgangskode</b></label>
+	<input type="password" placeholder="Adgangskode" name="password" required>
 
-  <p class="ingenbruger">Har du ikke allered et login? Opret bruger <a href="opretbruger.html" style="text-decoration: none;">her</a></button>.</p>
+  <input type="submit" class="slutknap">
+
+  </form>
+
 
 
   <span>
-  <form action="/action_page.php">
-  <input type="checkbox" class="vehicle10" name="vehicle10" value="loggetind">
-<label class="vehicletekst10" for="vehicle10">Forbliv logget ind</label><br>
-  </form>
-</span>
+  	<form>
+  		<input type="checkbox" class="gdpr" name="gdpr" value="loggetind">
+  	</form>
+	</span>
 
-  </div>
-  </form>
+<label class="gdprtekst" for="gdpr">
+  <p>Jeg accepterer <a class="betingelserlink" href="betingelser.php" style="text-decoration: none;">cookie- og privatlivspolitik</a>.
+  <br>Jeg giver hermed samtykke til, at Odense ZOO
+  <br>må indhente, anvende og opbevare mine
+  <br>personlige oplysninger, som er nødvendige
+  <br>for at oprette en profil.</p>
+</label>
+
+</div>
 
 
 <script>
