@@ -56,7 +56,7 @@
     </a>
   </form>
 
-  <p class="ingenbruger">Har du ikke allered et login? Opret bruger <a href="opretbruger.php" style="text-decoration: none;">her</a>.</p>
+  <p class="ingenbruger">Har du ikke allerede et login? Opret bruger <a href="opretbruger.php" style="text-decoration: none;">her</a>.</p>
 
   <span>
   <form action="">
